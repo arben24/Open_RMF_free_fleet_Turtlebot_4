@@ -38,8 +38,8 @@ The demonstrator is modular to ensure flexibility and ease of customization.
 An **ESP32** is used to control the doors and elevator. [Visual Studio Code](https://code.visualstudio.com) with the [PlatformIO](https://platformio.org) extension is recommended as the **development environment**.
 
 Additionally, [Micro-ROS](https://micro.ros.org) must be set up. This allows the ESP32 to interact directly with the ROS network, reading and writing the states of doors and elevators. The relevant topics are `/door_states` and `/door_requests`.
-
 You can Find example Code [here](/Platformio/).
+
 ---
 
 ## 3. Setting Up Open-RMF and the Free_Fleet_Adapter

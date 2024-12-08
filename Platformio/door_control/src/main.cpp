@@ -28,8 +28,8 @@ size_t agent_port = 8888;
 //MQTT credentials
 const char *mqtt_username = "admin";
 const char *mqtt_password = "admin";
-char ssid[] = "Leobots";
-char psk[]= "leobots42";
+char ssid[] = "YOUR-SSID";
+char psk[]= "YOUR_WIFI_PASSWORD";
 String door_name= "door1";
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------
 //MQTT init

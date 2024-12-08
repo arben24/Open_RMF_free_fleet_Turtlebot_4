@@ -27,8 +27,8 @@ size_t agent_port = 8890;
 //MQTT credentials
 const char *mqtt_username = "admin";
 const char *mqtt_password = "admin";
-char ssid[] = "Leobots";
-char psk[]= "leobots42";
+char ssid[] = "YOUR-SSID";
+char psk[]= "YOUR_WIFI_PASSWORD";
 String lift_name = "lift1";
 int num_available_floors = 2;
 char * available_floors[2] = {"L1", "L2"};
